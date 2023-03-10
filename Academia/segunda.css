@@ -1,0 +1,113 @@
+h1{
+    font-family:'Stencil Std, fantasy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    color:#2E2EFE;
+    border-radius: 35px;
+}
+h1{
+    font-family:'Stencil Std, fantasy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    color:#2E2EFE;
+    border-radius: 35px;
+}
+h2{
+    color:#2E2EFE;
+    text-align: center;
+    border-radius: 35px;
+    background-color:#00000F;
+    border-style:solid;
+    border-width: 5px;
+    border-color: #2E2EFE;
+    border-radius: 35px;
+
+}
+nav{
+ font-size: 25px;
+}
+body{
+    background-color: #00000F;
+    font-style: normal;
+    margin-left: 50px;
+    margin-right:50px;
+    text-align: center;
+    color:#feffdf;
+}
+img{
+    border-style: solid;
+    border-width: 7px;
+    border-color:#2E2EFE;
+    border-radius: 25px;
+}
+table{
+    margin-left: 230px;
+    margin-right: 200px;
+    background-color:#2E2EFE;
+    margin-bottom: 25px;
+    text-align: center;
+    line-height: 25px;
+    border-style: solid;
+    border-radius: 35px;
+
+}
+h3{
+    font-size: 25px;
+    color: #feffdf;
+    border-style: solid;
+    border-width: 2px;
+}
+td{
+    color:#feffdf;
+    font-weight: bold;
+    border-width: 20px;
+    border-width: 2px;
+}
+button{
+    border-style: solid;
+    border-color:#2E2EFE;
+    border-width: 15px;
+    border-radius: 35px;
+}
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 25px;
+    height: 25px;
+    margin-inline-start: 25px;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: #ffffff;
+}
+
+.svg-icon circle {
+    stroke: #ffffff;
+    stroke-width: 1;
+}
+
+.svg-xmlns{
+    width: 22px;
+    height: 22px;
+    margin-inline-start: 25px;
+}
+.svg-xmlns path,
+.svg-xmlns polygon,
+.svg-xmlns rect {
+    fill: #ffffff;
+}
+.svg-xmlns circle{
+    stroke: #ffffff;
+    stroke-width: 1;
+}
+.container{
+    border-style: hidden;
+    text-align: center;
+
+}
